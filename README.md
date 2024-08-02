@@ -1,2 +1,3 @@
-# theia-ide-book
-TheiaIDE参考手册
+# TheiaIDE参考手册
+
+TODO

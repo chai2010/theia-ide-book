@@ -1,0 +1,11 @@
+[book]
+authors = ["chai2010"]
+description = ""
+language = "zh"
+src = "."
+title = "TheiaIDE参考手册"
+
+[output.html]
+git-repository-icon = "fa-github"
+git-repository-url = "https://github.com/chai2010/theia-ide-book"
+edit-url-template = "https://github.com/chai2010/theia-ide-book/edit/master/testdata/{path}"
